@@ -15,8 +15,8 @@ app.use("/users", userRouter);
 // server settings
 // ===============================================================================================
 
-app.listen(process.env.PORT!, () => {
-  console.log("================================");
-  console.log("The server is online and ready !");
-  console.log("================================");
-});
+// app.listen(process.env.PORT!, () => {
+// console.log("================================");
+// console.log("The server is online and ready !");
+// console.log("================================");
+// });
